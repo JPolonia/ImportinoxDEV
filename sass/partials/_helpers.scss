@@ -1,0 +1,84 @@
+/* ----------------------------------------------------- */
+/* HELPERS
+/* ----------------------------------------------------- */
+
+.importinox-color{
+	color: $importinox-color;
+	font-color: $importinox-color;
+}
+
+.inline-img {
+	float: left;
+	margin: 0 10px 10px 0;
+	width: 50%;
+}
+
+.inline-img-30percent {
+	float: left;
+	margin: 0 10px 10px 0;
+	width: 30%;
+}
+
+.inline-img-30percent-right {
+	padding: 10px;
+	float: right;
+	margin: 0 10px 10px 0;
+	width: 50%;
+}
+
+.inline-img-15percent {
+	float: left;
+	margin: 5px 10px 10px 0;
+	width: 12%;
+}
+
+.no-margin {
+	margin: 0 !important;
+}
+
+.no-padding {
+	padding: 0 !important;
+}
+
+.margin-bottom-5px {
+	margin-bottom: 5px !important;
+}
+
+.margin-bottom-30px {
+	margin-bottom: 30px !important;
+}
+
+.margin-bottom-50px {
+	margin-bottom: 50px !important;
+}
+
+.body-text-bg {
+	background-color: $body-text-color !important;
+}
+
+.control-inline {
+	@include inline-block;
+
+	width: auto;
+}
+
+.hide-first {
+	display: none;
+}
+
+/* list icons */
+.list-icons-demo li {
+	margin-bottom: 20px;
+
+	i {
+		font-size: 24px;
+	}
+}
+
+@include max-screen($break-xsmall) {
+	.inline-img,.inline-img-30percent-right,.inline-img-30percent {
+		float: none;
+		width: 100%;
+		padding: 0;
+	}
+}
