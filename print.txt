@@ -1,0 +1,619 @@
+Folder PATH listing for volume Sistema
+Volume serial number is 44E5-8DA9
+C:.
+|   artigo.php
+|   art_5_modaltable.php
+|   catalogo.php
+|   footer.php
+|   Gruntfile.js
+|   header.php
+|   index.php
+|   package.json
+|   page-contacts.php
+|   print.txt
+|   
++---assets
+|   +---css
+|   |   |   bootstrap.css
+|   |   |   bootstrap.css.map
+|   |   |   bootstrap.min.css
+|   |   |   font-awesome.css
+|   |   |   font-awesome.min.css
+|   |   |   ie.css
+|   |   |   main-one-page.css
+|   |   |   main.css
+|   |   |   my-custom-styles.css
+|   |   |   shop-main.css
+|   |   |   
+|   |   \---skins
+|   |           brown.css
+|   |           deepskyblue.css
+|   |           goldenrod.css
+|   |           indianred.css
+|   |           lightgreen.css
+|   |           orange.css
+|   |           seagreen.css
+|   |           slategray.css
+|   |           
+|   +---files
+|   |       Especial_Expreso_PME_ Excelencia_2015.pdf
+|   |       IMPORTINOX_Apresentacao.pdf
+|   |       IMPORTINOX_ChapaPerfurada.pdf
+|   |       IMPORTINOX_CondVendas.pdf
+|   |       IMPORTINOX_Fixacao.pdf
+|   |       Lista_PMEExcelencia2016.xlsm
+|   |       Lista_PMELider25012016_v2.xlsx
+|   |       
+|   +---fonts
+|   |       fontawesome-webfont.eot
+|   |       fontawesome-webfont.svg
+|   |       fontawesome-webfont.ttf
+|   |       fontawesome-webfont.woff
+|   |       fontawesome-webfont.woff2
+|   |       glyphicons-halflings-regular.eot
+|   |       glyphicons-halflings-regular.svg
+|   |       glyphicons-halflings-regular.ttf
+|   |       glyphicons-halflings-regular.woff
+|   |       glyphicons-halflings-regular.woff2
+|   |       
+|   +---ico
+|   |       favicon.png
+|   |       repute114x114.png
+|   |       repute144x144.png
+|   |       repute57x57.png
+|   |       repute72x72.png
+|   |       
+|   +---img
+|   |   |   24h.png
+|   |   |   badge.png
+|   |   |   business-people.png
+|   |   |   bx_loader.gif
+|   |   |   CE.pdn
+|   |   |   CE.png
+|   |   |   CNC1.png
+|   |   |   free.png
+|   |   |   fullscreen-bg.jpg
+|   |   |   fullscreen-bg2.jpg
+|   |   |   gray_jean.png
+|   |   |   green.svg
+|   |   |   grey.svg
+|   |   |   hero-unit-bg.png
+|   |   |   hero-unit-obj.png
+|   |   |   hero-unit-obj2.png
+|   |   |   hero-unit-obj3.png
+|   |   |   intro-img.png
+|   |   |   iso-9001.pdn
+|   |   |   iso-9001.png
+|   |   |   iso-90012.png
+|   |   |   lab.pdn
+|   |   |   lab.png
+|   |   |   location-pin.png
+|   |   |   page-header-bg.png
+|   |   |   pattern-geometry.png
+|   |   |   Robot.jpg
+|   |   |   Robot.png
+|   |   |   Robot1.png
+|   |   |   Robot2.jpg
+|   |   |   testimonial-bg.png
+|   |   |   user1.png
+|   |   |   user2.png
+|   |   |   user3.png
+|   |   |   user4.png
+|   |   |   user5.png
+|   |   |   yellow.svg
+|   |   |   
+|   |   +---blog
+|   |   |       balloon-med.jpg
+|   |   |       balloon.jpg
+|   |   |       buildings-med.jpg
+|   |   |       buildings.jpg
+|   |   |       people-med.jpg
+|   |   |       people.jpg
+|   |   |       
+|   |   +---clients
+|   |   |       logo1.png
+|   |   |       logo2.png
+|   |   |       logo3.png
+|   |   |       logo4.png
+|   |   |       logo5.png
+|   |   |       
+|   |   +---flags
+|   |   |       categories_import.csv
+|   |   |       China.png
+|   |   |       combinations_import.csv
+|   |   |       customers_import.csv
+|   |   |       eBIS_schemas_BatchEnvelope-v3.xsd
+|   |   |       Germany.png
+|   |   |       Germany.svg
+|   |   |       Japan.png
+|   |   |       Japan.svg
+|   |   |       Portugal.png
+|   |   |       Portugal.svg
+|   |   |       Portugal2.png
+|   |   |       products_import.csv
+|   |   |       spain.png
+|   |   |       United-Kingdom.png
+|   |   |       United-Kingdom.svg
+|   |   |       
+|   |   +---grupos
+|   |   |       aaa1_24.png
+|   |   |       aaa2_24.png
+|   |   |       aaa2_24.svg
+|   |   |       aab1_24.png
+|   |   |       aab2_24.png
+|   |   |       aab2_24.svg
+|   |   |       buc1_24.png
+|   |   |       buc2_24.png
+|   |   |       buc2_24.svg
+|   |   |       cat2_24.png
+|   |   |       cat2_24.svg
+|   |   |       cat3_24.png
+|   |   |       nut1_24.png
+|   |   |       nut2_24.png
+|   |   |       nut2_24.svg
+|   |   |       ring1_24.png
+|   |   |       ring1_24.svg
+|   |   |       ring2_24.png
+|   |   |       ring2_24.svg
+|   |   |       
+|   |   +---logo
+|   |   |       eu_bw_1.svg
+|   |   |       Logo_PT.png
+|   |   |       Logo_PT.svg
+|   |   |       Logo_PT_white.svg
+|   |   |       on2_bw_1.svg
+|   |   |       PME_excelencia_09.svg
+|   |   |       PME_excelencia_11.svg
+|   |   |       PME_excelencia_12.svg
+|   |   |       PME_excelencia_14.svg
+|   |   |       PME_excelencia_15.svg
+|   |   |       PME_lider.svg
+|   |   |       qren_bw_1.svg
+|   |   |       repute-logo-light-brown.png
+|   |   |       repute-logo-light-deepskyblue.png
+|   |   |       repute-logo-light-goldenrod.png
+|   |   |       repute-logo-light-indianred.png
+|   |   |       repute-logo-light-lightgreen.png
+|   |   |       repute-logo-light-orange.png
+|   |   |       repute-logo-light-seagreen.png
+|   |   |       repute-logo-light-slategray.png
+|   |   |       repute-logo-light.png
+|   |   |       repute-logo-nav-brown.png
+|   |   |       repute-logo-nav-deepskyblue.png
+|   |   |       repute-logo-nav-goldenrod.png
+|   |   |       repute-logo-nav-indianred.png
+|   |   |       repute-logo-nav-light.png
+|   |   |       repute-logo-nav-lightgreen.png
+|   |   |       repute-logo-nav-orange.png
+|   |   |       repute-logo-nav-seagreen.png
+|   |   |       repute-logo-nav-slategray.png
+|   |   |       repute-logo-nav.png
+|   |   |       
+|   |   +---news
+|   |   |       AcquiaDevDesktop-2-2015-11-22.exe
+|   |   |       BenficaModicus.png
+|   |   |       Casa-Musica 2.png
+|   |   |       DiscosFischer.png
+|   |   |       featured-news.png
+|   |   |       featured-news1.6.png
+|   |   |       news.png
+|   |   |       news1.png
+|   |   |       news2.png
+|   |   |       news3.png
+|   |   |       news4.png
+|   |   |       news5.png
+|   |   |       PME-15.png
+|   |   |       pme-news.png
+|   |   |       Regiao_PME-excelencia.png
+|   |   |       SportingModicus.png
+|   |   |       wordpress-4.4.2.zip
+|   |   |       
+|   |   +---portfolio
+|   |   |   +---800x500
+|   |   |   |       work1.png
+|   |   |   |       work10.png
+|   |   |   |       work2.png
+|   |   |   |       work3.png
+|   |   |   |       work4.png
+|   |   |   |       work5.png
+|   |   |   |       work6.png
+|   |   |   |       work7.png
+|   |   |   |       work8.png
+|   |   |   |       work9.png
+|   |   |   |       
+|   |   |   +---800x800
+|   |   |   |       work1.png
+|   |   |   |       work2.png
+|   |   |   |       work3.png
+|   |   |   |       work4.png
+|   |   |   |       work5.png
+|   |   |   |       work6.png
+|   |   |   |       work7.png
+|   |   |   |       work8.png
+|   |   |   |       
+|   |   |   \---single
+|   |   |           bicycle.jpg
+|   |   |           blurred_lines.jpg
+|   |   |           edge.jpg
+|   |   |           
+|   |   +---sliders
+|   |   |   |   full-slide-color.jpg
+|   |   |   |   full-slide-color2.jpg
+|   |   |   |   full-slide-color3.jpg
+|   |   |   |   full-slide.jpg
+|   |   |   |   full-slide2.jpg
+|   |   |   |   full-slide3.jpg
+|   |   |   |   slider10-h500.png
+|   |   |   |   slider11-h500.png
+|   |   |   |   slider12-h500.png
+|   |   |   |   slider13-h500.png
+|   |   |   |   slider14-h500.png
+|   |   |   |   slider15-h500.png
+|   |   |   |   slider16-h500.png
+|   |   |   |   slider17-h500.png
+|   |   |   |   slider18-h500.png
+|   |   |   |   slider19-h500.png
+|   |   |   |   slider2-h500.png
+|   |   |   |   slider20-h500.png
+|   |   |   |   slider21-h500.png
+|   |   |   |   slider22-h500.png
+|   |   |   |   slider23-h500.png
+|   |   |   |   slider24-h500.png
+|   |   |   |   slider25-h500.png
+|   |   |   |   slider26-h500.png
+|   |   |   |   slider27-h500.png
+|   |   |   |   slider3-h500.png
+|   |   |   |   slider4-h500.png
+|   |   |   |   slider5-h500.png
+|   |   |   |   slider6-h500.png
+|   |   |   |   slider7-h500.png
+|   |   |   |   slider8-h500.png
+|   |   |   |   slider9-h500.png
+|   |   |   |   
+|   |   |   \---Fotos novo site-selected
+|   |   |           Antiderrapante1.jpg
+|   |   |           Antiderrapante2.jpg
+|   |   |           Antiderrapante3.jpg
+|   |   |           Gradil1.jpg
+|   |   |           Gradil2.jpg
+|   |   |           Gradil3.jpg
+|   |   |           Gradil4.jpg
+|   |   |           Gradil5.jpg
+|   |   |           MetalDistendido1.jpg
+|   |   |           Pamplona4 v1.jpg
+|   |   |           Pamplona5 v1.jpg
+|   |   |           Pamplona7 v1.jpg
+|   |   |           Parafusos1.jpg
+|   |   |           Parafusos2.jpg
+|   |   |           Parafusos3.jpg
+|   |   |           Parafusos4.jpg
+|   |   |           Parafusos5.jpg
+|   |   |           Parafusos6.jpg
+|   |   |           Parafusos7.jpg
+|   |   |           Parafusos8.jpg
+|   |   |           
+|   |   \---team
+|   |           person1.png
+|   |           person2.png
+|   |           person3.png
+|   |           person4.png
+|   |           
+|   +---js
+|   |   |   artigo.js
+|   |   |   bootstrap-table-filter.js
+|   |   |   bootstrap.js
+|   |   |   bootstrap.min.js
+|   |   |   FileSaver.min.js
+|   |   |   jquery-2.1.1.min.js
+|   |   |   jquery.cookie.js
+|   |   |   repute-scripts.js
+|   |   |   tableExport.js
+|   |   |   
+|   |   +---bootstrap-table
+|   |   |   |   bootstrap-table-pt-PT.js
+|   |   |   |   bootstrap-table.js
+|   |   |   |   
+|   |   |   \---extensions
+|   |   |       |   bootstrap-table-editable.js
+|   |   |       |   bootstrap-table-export.js
+|   |   |       |   
+|   |   |       \---bootstrap-table-filter
+|   |   |               bootstrap-table-filter.js
+|   |   |               bootstrap-table-filter.pt-BR.js
+|   |   |               bs-table.js
+|   |   |               
+|   |   \---plugins
+|   |       +---autohidingnavbar
+|   |       |       jquery.bootstrap-autohidingnavbar.js
+|   |       |       jquery.bootstrap-autohidingnavbar.min.js
+|   |       |       
+|   |       +---bootstrap-datepicker
+|   |       |       bootstrap-datepicker.js
+|   |       |       
+|   |       +---bootstrap-multiselect
+|   |       |       bootstrap-multiselect.js
+|   |       |       
+|   |       +---daterangepicker
+|   |       |       daterangepicker.js
+|   |       |       
+|   |       +---easing
+|   |       |       jquery.easing.js
+|   |       |       jquery.easing.min.js
+|   |       |       
+|   |       +---fitvids
+|   |       |       jquery.fitvids.js
+|   |       |       
+|   |       +---google-map
+|   |       |       google-map.js
+|   |       |       
+|   |       +---isotope
+|   |       |       isotope.pkgd.js
+|   |       |       isotope.pkgd.min.js
+|   |       |       
+|   |       +---jquery-cycle
+|   |       |       jquery.cycle.all.js
+|   |       |       
+|   |       +---jquery-easypiechart
+|   |       |       jquery.easypiechart.js
+|   |       |       jquery.easypiechart.min.js
+|   |       |       
+|   |       +---jquery-maskedinput
+|   |       |       jquery.masked-input.js
+|   |       |       jquery.masked-input.min.js
+|   |       |       
+|   |       +---maximage
+|   |       |       jquery.maximage.js
+|   |       |       jquery.maximage.min.js
+|   |       |       
+|   |       +---moment
+|   |       |       moment.js
+|   |       |       moment.min.js
+|   |       |       
+|   |       +---parsley-validation
+|   |       |       parsley.js
+|   |       |       parsley.min.js
+|   |       |       
+|   |       +---photoswipe
+|   |       |       photoswipe-ui-default.min.js
+|   |       |       photoswipe.min.js
+|   |       |       
+|   |       +---scrollto
+|   |       |       jquery.localscroll-1.2.7-min.js
+|   |       |       jquery.localscroll-1.2.7.js
+|   |       |       jquery.scrollTo-1.4.3.1-min.js
+|   |       |       jquery.scrollTo-1.4.3.1.js
+|   |       |       
+|   |       +---slick
+|   |       |       slick.js
+|   |       |       slick.min.js
+|   |       |       
+|   |       \---stellar
+|   |               jquery.stellar.js
+|   |               jquery.stellar.min.js
+|   |               
+|   +---normas
+|   |   |   anilhas_freios.csv
+|   |   |   buchas.csv
+|   |   |   cabos_correntes.csv
+|   |   |   diversos.csv
+|   |   |   furo-quadrado.csv
+|   |   |   furo-redondo.csv
+|   |   |   parafusos_chapa.csv
+|   |   |   parafusos_madeira.csv
+|   |   |   parafusos_metal.csv
+|   |   |   pernos_hastes_olhais.csv
+|   |   |   porcas - C¢pia.csv
+|   |   |   porcas.csv
+|   |   |   update_normas.php
+|   |   |   
+|   |   \---img
+|   |           ani_125A persp_opt.jpg
+|   |           ani_127B persp_opt.jpg
+|   |           ani_128A persp_opt.jpg
+|   |           ani_137A persp_opt.jpg
+|   |           ani_137B persp_opt.jpg
+|   |           ani_1440 persp_opt.jpg
+|   |           ani_1441 persp_opt.jpg
+|   |           ani_2093 persp_opt.jpg
+|   |           ani_433 persp_opt.jpg
+|   |           ani_434 persp_opt.jpg
+|   |           ani_435 persp_opt.jpg
+|   |           ani_440R persp_opt.jpg
+|   |           ani_463 persp_opt.jpg
+|   |           ani_471 persp_opt.jpg
+|   |           ani_472 persp_opt.jpg
+|   |           ani_6319C_opt.jpg
+|   |           ani_6319D_opt.jpg
+|   |           ani_6796 persp_opt.jpg
+|   |           ani_6797A persp_opt.jpg
+|   |           ani_6797J persp_opt.jpg
+|   |           ani_6798A persp_opt.jpg
+|   |           ani_6798J persp_opt.jpg
+|   |           ani_6798V persp_opt.jpg
+|   |           ani_6799 persp_opt.jpg
+|   |           ani_6916 persp_opt.jpg
+|   |           ani_7349 persp_opt.jpg
+|   |           ani_7989 persp_opt.jpg
+|   |           ani_9021 persp_opt.jpg
+|   |           ani_vulc_opt.jpg
+|   |           buc_B002_1_1_opt.jpg
+|   |           buc_B002_1_opt.jpg
+|   |           buc_B003MTA_opt.jpg
+|   |           buc_B0073_opt.jpg
+|   |           buc_B0083_opt.jpg
+|   |           buc_BOO434_opt.jpg
+|   |           buc_Bucha borboleta_opt.jpg
+|   |           buc_Bucha nylon s_gola_opt.jpg
+|   |           buc_Bucha nylon_opt.jpg
+|   |           buc_Bucha pladur_1_opt.jpg
+|   |           buc_Bucha pladur_2_opt.jpg
+|   |           buc_Bucha tijolo universal_opt.jpg
+|   |           buc_Camisa_opt.jpg
+|   |           buc_Resina tubo_opt.jpg
+|   |           buc_Tapit_opt.jpg
+|   |           cat2.png
+|   |           pfm_7971_1_opt.jpg
+|   |           pfm_7971_2_opt.jpg
+|   |           pfm_7972_1_opt.jpg
+|   |           pfm_7972_2_opt.jpg
+|   |           pfm_7973_1_opt.jpg
+|   |           pfm_7973_2_opt.jpg
+|   |           pfm_7976_1_opt.jpg
+|   |           pfm_7976_2_opt.jpg
+|   |           pfm_7981_1_opt.jpg
+|   |           pfm_7981_2_opt.jpg
+|   |           pfm_7981_torx_2_opt.jpg
+|   |           pfm_7982_1_opt.jpg
+|   |           pfm_7982_2_opt.jpg
+|   |           pfm_7982_torx_2_opt.jpg
+|   |           pfm_7983_1_opt.jpg
+|   |           pfm_7983_2_opt.jpg
+|   |           por_1587_1_opt.jpg
+|   |           por_315_ 1_opt.jpg
+|   |           por_439_1_opt.jpg
+|   |           por_557_1_opt.jpg
+|   |           por_562_1_opt.jpg
+|   |           por_582_1_opt.jpg
+|   |           por_6334_1_opt.jpg
+|   |           por_6915_1_opt.jpg
+|   |           por_6923_1_opt.jpg
+|   |           por_917_1_opt.jpg
+|   |           por_928_1_opt.jpg
+|   |           por_929_1_opt.jpg
+|   |           por_934_1_opt.jpg
+|   |           por_935_1_opt.jpg
+|   |           por_936_1_opt.jpg
+|   |           por_980_1_opt.jpg
+|   |           por_982_1_opt.jpg
+|   |           por_985_1_opt.jpg
+|   |           por_A306_opt.jpg
+|   |           por_A310_1_opt.jpg
+|   |           ppa_571_ 1_opt.jpg
+|   |           ppa_571_2_opt.jpg
+|   |           ppa_7505A_1_opt.jpg
+|   |           ppa_7505A_2_opt.jpg
+|   |           ppa_7505A_torx__opt.jpg
+|   |           ppa_7505B_1_opt.jpg
+|   |           ppa_7505B_2_opt.jpg
+|   |           ppa_7505B_torx_2_opt.jpg
+|   |           ppa_95_1_opt.jpg
+|   |           ppa_95_2_opt.jpg
+|   |           ppa_96_1_opt.jpg
+|   |           ppa_96_2_opt.jpg
+|   |           ppa_97_1_opt.jpg
+|   |           ppa_97_2_opt.jpg
+|   |           prm_603_1_opt.jpg
+|   |           prm_603_2_opt.jpg
+|   |           prm_6912_1_opt.jpg
+|   |           prm_6912_2_opt.jpg
+|   |           prm_6914_1_opt.jpg
+|   |           prm_6914_2_opt.jpg
+|   |           prm_6921_1_opt.jpg
+|   |           prm_6921_2_opt.jpg
+|   |           prm_7380_1_opt.jpg
+|   |           prm_7380_2_opt.jpg
+|   |           prm_7984_2_opt.jpg
+|   |           prm_7985_1_opt.jpg
+|   |           prm_7985_2_opt.jpg
+|   |           prm_7991_1_opt.jpg
+|   |           prm_7991_2_opt.jpg
+|   |           prm_84_1_opt.jpg
+|   |           prm_84_2_opt.jpg
+|   |           prm_86_1_opt.jpg
+|   |           prm_86_2_opt.jpg
+|   |           prm_912_1_opt.jpg
+|   |           prm_912_2_opt.jpg
+|   |           prm_931_1_opt.jpg
+|   |           prm_931_2_opt.jpg
+|   |           prm_933_1_opt.jpg
+|   |           prm_933_2_opt.jpg
+|   |           prm_963_1_opt.jpg
+|   |           prm_963_2_opt.jpg
+|   |           prm_964_1_opt.jpg
+|   |           prm_964_2_opt.jpg
+|   |           prm_965_1_opt.jpg
+|   |           prm_965_2_opt.jpg
+|   |           prm_966_1_opt.jpg
+|   |           prm_966_2_opt.jpg
+|   |           prm_NFE271281l_opt.jpg
+|   |           prm_NFE271281_opt.jpg
+|   |           prm_NFE27129_2_opt.jpg
+|   |           
+|   \---php
+|       |   safe_encode.php
+|       |   your.php
+|       |   
+|       \---database
+|               db_connec.php
+|               db_utf8.php
+|               db_var.php
+|               
++---php
+|   |   ajax-response.php
+|   |   contact.php
+|   |   mailchimp.php
+|   |   safe_encode.php
+|   |   your.php
+|   |   
+|   +---database
+|   |       db_connec.php
+|   |       db_utf8.php
+|   |       db_var.php
+|   |       
+|   \---inc
+|           MCAPI.class.php
+|           
+\---sass
+    |   main-one-page.scss
+    |   main.scss
+    |   shop-main.scss
+    |   
+    +---modules
+    |       _breakpoints.scss
+    |       _mixins.scss
+    |       
+    +---partials
+    |       _base.scss
+    |       _blog.scss
+    |       _general.scss
+    |       _helpers.scss
+    |       _hero-unit.scss
+    |       _navbar.scss
+    |       _one-page.scss
+    |       _pages.scss
+    |       _portfolio.scss
+    |       _typography.scss
+    |       _ui-bootstrap-elements.scss
+    |       _ui-elements.scss
+    |       
+    +---shop
+    |       _header.scss
+    |       _layout.scss
+    |       _main-content.scss
+    |       _navigation.scss
+    |       
+    +---skins
+    |       brown.scss
+    |       deepskyblue.scss
+    |       goldenrod.scss
+    |       indianred.scss
+    |       lightgreen.scss
+    |       orange.scss
+    |       seagreen.scss
+    |       slategray.scss
+    |       _skin-styles.scss
+    |       
+    \---vendors
+            _animate.scss
+            _bootstrap-multiselect.scss
+            _datepicker.scss
+            _daterangepicker-bs3.scss
+            _ion.rangeSlider.scss
+            _ion.rangeSlider.skinHTML5.scss
+            _jquery.bootstrap-touchspin.scss
+            _jquery.maximage.scss
+            _prettyPhoto.scss
+            _slick-theme-repute.scss
+            _slick-theme.scss
+            _slick.scss
+            
