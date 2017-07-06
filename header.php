@@ -91,10 +91,10 @@
 						<li class="dropdown ">
 							<a href="#" class="dropdown-toggle" data-toggle="dropdown">PRODUTOS <i class="fa fa-angle-down"></i></a>
 							<ul class="dropdown-menu" role="menu">
-								<li><a href="feature-navigation-menu.html">Chapa Perfurada</a></li>
+								<li><a href="catalogo.php">Chapa Perfurada</a></li>
 								<li><a href="catalogo.php">Fixação</a></li>
-								<li><a href="feature-page-header.html">Gradil</a></li>
-								<li><a href="feature-footer.html">Metal Distendido</a></li>
+								<li><a href="catalogo.php">Gradil</a></li>
+								<li><a href="catalogo.php">Metal Distendido</a></li>
 							</ul>
 						</li>
 						<li class="dropdown ">

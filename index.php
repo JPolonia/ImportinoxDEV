@@ -14,9 +14,9 @@
 					<div class="item"><img src="assets/img/sliders/slider27-h500.png" alt="Slider Image"></div>				
 					<div class="item"><img src="assets/img/sliders/slider23-h500.png" alt="Slider Image">
 						<div class="carousel-caption">
-							<h2 class="hero-heading">EASY TO CUSTOMIZE</h2>
-							<p class="lead">Readable code, well documented and FREE support</p>
-							<a href="#about" class="btn btn-lg hero-button">LEARN MORE</a>
+							<h2 class="hero-heading">IMPORTINOX</h2>
+							<p class="lead">um compromisso sólido</p>
+							<a href="#about" class="btn btn-lg hero-button">VER MAIS</a>
 						</div>
 					</div>		
 					<div class="item"><img src="assets/img/sliders/slider17-h500.png" alt="Slider Image"></div>			
@@ -28,7 +28,7 @@
 		<div class="main-features ">
 			<div class="container">
 				<div class="row">					
-					<div class="col-md-3 col-xs-3">
+					<!--<div class="col-md-3 col-xs-3">
 						<i class="fa fa-cubes "></i>
 						<h3 class="feature-heading">PRODUTOS</h3>
 					</div>
@@ -43,12 +43,12 @@
 					<div class="col-md-3 col-xs-3">
 						<i class="fa fa-globe "></i>
 						<h3 class="feature-heading">SOCIEDADE</h3>
-					</div>
+					</div>-->
 
-					<!--<div class="col-md-3 col-xs-3">
+					<div class="col-md-3 col-xs-3">
 						<div class="boxed-content" style="margin-bottom:0px;">
 							<a href="#">
-							<i class="fa fa-gears text-white-color"></i>
+							<i class="fa fa-cubes text-white-color"></i>
 							<h2 class="boxed-content-title text-white-color">PRODUTOS</h2>
 							</a>					
 						</div>
@@ -56,7 +56,7 @@
 					<div class="col-md-3 col-xs-3">
 						<div class="boxed-content" style="margin-bottom:0px;">
 							<a href="#">
-							<i class="fa fa-wrench text-white-color"></i>
+							<i class="fa fa-refresh text-white-color"></i>
 							<h2 class="boxed-content-title text-white-color">MERCADOS</h2>
 							</a>							
 						</div>

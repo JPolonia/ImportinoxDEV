@@ -25,7 +25,7 @@ a:hover, a:focus {
 }
 
 .navbar-nav .dropdown-menu {
-  border-top: 2px solid #5a6673;
+  border-top: 2px solid #5a6773;
 }
 
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
@@ -243,22 +243,22 @@ ul.sidebar-nav li.has-submenu.active li.active > a {
 /* date picker */
 .datepicker td.active:active, .datepicker td.active.active {
   background-color: #708090;
-  border-color: #5a6673;
+  border-color: #5a6773;
 }
 .datepicker td.active:hover:active, .datepicker td.active:hover.active {
   background-color: #708090;
-  border-color: #5a6673;
+  border-color: #5a6773;
 }
 .datepicker table tr td.active:hover, .datepicker table tr td.active:hover:hover, .datepicker table tr td.active.disabled:hover, .datepicker table tr td.active.disabled:hover:hover, .datepicker table tr td.active:active, .datepicker table tr td.active:hover:active, .datepicker table tr td.active.disabled:active, .datepicker table tr td.active.disabled:hover:active, .datepicker table tr td.active.active, .datepicker table tr td.active:hover.active, .datepicker table tr td.active.disabled.active, .datepicker table tr td.active.disabled:hover.active, .datepicker table tr td.active.disabled, .datepicker table tr td.active:hover.disabled, .datepicker table tr td.active.disabled.disabled, .datepicker table tr td.active.disabled:hover.disabled,
 .datepicker table tr td.active [disabled], .datepicker table tr td.active:hover[disabled], .datepicker table tr td.active.disabled[disabled], .datepicker table tr td.active.disabled:hover[disabled] {
   background-color: #708090;
-  border-color: #5a6673;
+  border-color: #5a6773;
 }
 
 /* date range picker */
 .daterangepicker td.active, .daterangepicker td.active:hover {
   background-color: #708090;
-  border-color: #5a6673;
+  border-color: #5a6773;
 }
 .daterangepicker td.in-range {
   background: #dde1e5;

@@ -1250,7 +1250,7 @@ div.ppt {
 
 /* Ion.RangeSlider
 // css version 2.0.3
-// ┬® 2013-2014 Denis Ineshin | IonDen.com
+// © 2013-2014 Denis Ineshin | IonDen.com
 // ===================================================================================================================*/
 /* =====================================================================================================================
 // RangeSlider */
@@ -1426,8 +1426,8 @@ div.ppt {
 
 /* Ion.RangeSlider, Simple Skin
 // css version 2.0.3
-// ┬® Denis Ineshin, 2014    https://github.com/IonDen
-// ┬® guybowden, 2014        https://github.com/guybowden
+// © Denis Ineshin, 2014    https://github.com/IonDen
+// © guybowden, 2014        https://github.com/guybowden
 // ===================================================================================================================*/
 /* =====================================================================================================================
 // Skin details */
@@ -1570,7 +1570,7 @@ div.ppt {
  *  A mobile and touch friendly input spinner component for Bootstrap 3.
  *  http://www.virtuosoft.eu/code/bootstrap-touchspin/
  *
- *  Made by Istv├ín Ujj-M├®sz├íros
+ *  Made by István Ujj-Mészáros
  *  Under Apache License v2.0 License
  */
 .bootstrap-touchspin .input-group-btn-vertical {
@@ -1688,8 +1688,8 @@ div.ppt {
   height: 80px;
   line-height: 80px;
   float: left;
-  border: 1px solid #008ccf;
-  color: #008ccf;
+  border: 1px solid #406da4;
+  color: #406da4;
   font-size: 38px;
   text-align: center;
 }
@@ -2025,7 +2025,7 @@ div.ppt {
   font-weight: 800;
 }
 .shop-main .custom-tabs-line ul > li.active a {
-  color: #008ccf;
+  color: #406da4;
 }
 
 /* hero unit slider for shop theme */
@@ -2142,7 +2142,7 @@ div.ppt {
   height: auto;
 }
 .slick-text-pagination .slick-dots li.slick-active button {
-  border-bottom: 1px solid #008ccf;
+  border-bottom: 1px solid #406da4;
 }
 .slick-text-pagination .slick-dots li button {
   -moz-border-radius: 0;
@@ -2394,7 +2394,7 @@ div.pp_overlay {
 }
 
 div.pp_default .pp_loaderIcon {
-  background-image: url('../img/bx_loader.gif?1377991786');
+  background-image: url('../img/bx_loader.gif?1499341385');
 }
 
 .pp_hoverContainer {
@@ -2710,7 +2710,7 @@ a.pp_previous i {
   color: #7b7b7b;
 }
 .fuelux .checkout-wizard ul.steps > li.active .step-number {
-  background: #008ccf;
+  background: #406da4;
 }
 .fuelux .checkout-wizard ul.steps > li.complete {
   color: #7b7b7b;

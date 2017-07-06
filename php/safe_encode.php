@@ -17,7 +17,7 @@
     }
  
     function encode($value){ 
-		$skey = "SuPerEncKey2010";
+		$skey = "SuPerEncKey2010a";
 	    if(!$value){return false;}
         $text = $value;
         $iv_size = mcrypt_get_iv_size(MCRYPT_RIJNDAEL_256, MCRYPT_MODE_ECB);
@@ -27,7 +27,7 @@
     }
  
     function decode($value){
-		$skey = "SuPerEncKey2010";
+		$skey = "SuPerEncKey2010a";
         if(!$value){return false;}
         $crypttext = safe_b64decode($value); 
         $iv_size = mcrypt_get_iv_size(MCRYPT_RIJNDAEL_256, MCRYPT_MODE_ECB);

@@ -1,15 +1,17 @@
 <?php $page ='fix'; 
-include 'assets/php/safe_encode.php';
+include 'php/safe_encode.php';
 ?>
 <?php require_once('header.php') ?>
 		<!-- BREADCRUMBS -->
-		<div class="page-header">
+		<div class="page-header" >
 			<div class="container">
 				<h1 class="page-title pull-left">Catálogo</h1>
-				<ol class="breadcrumb">
+				<ol class="breadcrumb" id="ajax-content">
 					<li><a href="index.php">Home</a></li>
 					<li ><a >Fixação</a></li>
-					<li class="active"><a >Anilhas e Freios</a></li>
+					<li role="tabpanel" class="tab-pane fade in active" id="anilhas"><a >Anilhas e Freios</a></li>
+					<li role="tabpanel" class="tab-pane fade" id="buchas"><a >Buchas</a></li>
+					<li role="tabpanel" class="tab-pane fade" id="paraf-madeira"><a >Parafusos para Madeira</a></li>
 				</ol>
 			</div>
 		</div>

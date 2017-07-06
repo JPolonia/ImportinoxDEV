@@ -188,8 +188,8 @@
 	<script src="assets/js/plugins/google-map/google-map.js"></script>
 	<script src="assets/js/plugins/parsley-validation/parsley.min.js"></script>
 
-	<script type='text/javascript' id="__bs_script__">//<![CDATA[
-    document.write("<script async src='http://HOST:3000/browser-sync/browser-sync-client.2.11.0.js'><\/script>".replace("HOST", location.hostname));
+	<script id="__bs_script__">//<![CDATA[
+    document.write("<script async src='http://HOST:3000/browser-sync/browser-sync-client.js?v=2.18.12'><\/script>".replace("HOST", location.hostname));
 //]]></script>
 
 <script>
