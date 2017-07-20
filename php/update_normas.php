@@ -46,11 +46,12 @@
 	$headers = fgetcsv($file,0,';');
 
 	//$line is an array of the csv elements
-	while (($line = fgetcsv($file,0,';')) !== FALSE) { ?>
+	while (($line = fgetcsv($file,0,',')) !== FALSE) { ?>
 		<?php $norma = encode($line[1]); ?>
 		<?php echo '<div class="' .$col .' col-sm-6 teaser lazyload" >';?>
-			<div class="catitem">
-			<?php echo '<a href="#" onclick="loadPage(artigo.php?nm=' .$norma  .'&equi=' .encode($line[2]) .'&desc='.encode($line[3]).'&img='.encode($line[0]).')" style="    text-decoration: none;">'; ?>
+			<?php echo '<div class="catitem" data-target="#artigo_box" data-toggle="pill" data-gm="fix" data-gr="'.$grupo.'" data-norma="'.$line[1].'" data-equi="'.$line[2].'" data-desc="'.$line[3].'" data-img="'.$line[0].'">';?>
+			
+			  <?php //echo '<a class="artigo-item" data-target="#artigo_box" data-toggle="pill"  href="catalogo.php?gm=&nm=' .$norma  .'&equi=' .encode($line[2]) .'&desc='.encode($line[3]).'&img='.encode($line[0]).'" style="    text-decoration: none;">';?>
 					<span class="div_link"><!-- Makes div a link  --></span>
 					<?php if (!empty($line[8])) echo '<img id="img_aux" src="assets/img/normas/' .$line[8] .'">' ?>
 					<?php echo '<img class="lazyload" id="' .$css_3 .'" data-src="assets/img/normas/' .$line[0] .'" >' ?>
@@ -60,7 +61,7 @@
 					<h5><?php echo $line[1] .' '; if(!empty($line[2])){?><span class="barra_vertical">|</span><?php } ?><span class="catitemeq"><?php echo ' ' .$line[2]; ?></span></h5>
 					<?php echo '<p id="' .$css_1 .'">'; echo$line[3]; ?></p>
 					<div style=" z-index: 4; width: 100%; position: absolute; bottom: 0px; right: 0px; display: block; height: 10px; background-color: white;"></div>			
-			</a>
+			
 			</div>
 		</div>
 		

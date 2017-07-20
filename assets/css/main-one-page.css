@@ -5000,6 +5000,9 @@ ul.sidebar-nav ul.submenu li:first-child a {
 .breadcrumb {
   background-color: transparent;
 }
+.breadcrumb.tab-content > .active {
+  display: inline-block;
+}
 .breadcrumb > li.active {
   color: #406da4;
 }

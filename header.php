@@ -21,11 +21,11 @@
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans:300,400italic,400,600,700' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Roboto+Condensed:300,300italic,400italic,700,400,300' rel='stylesheet' type='text/css'>
 	<!-- FAVICONS -->
-	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="assets/ico/repute144x144.png">
+	<!-- <link rel="apple-touch-icon-precomposed" sizes="144x144" href="assets/ico/repute144x144.png">
 	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="assets/ico/repute114x114.png">
 	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="assets/ico/repute72x72.png">
-	<link rel="apple-touch-icon-precomposed" href="assets/ico/repute57x57.png">
-	<link rel="shortcut icon" href="assets/ico/favicon.png">
+	<link rel="apple-touch-icon-precomposed" href="assets/ico/repute57x57.png">-->
+	<link rel="shortcut icon" href="assets/ico/favicon.ico">
 </head>
 
 <body>
@@ -89,17 +89,45 @@
 							<a href="#" class="dropdown-toggle" data-toggle="dropdown">ENTRAR </a>
 						</li>
 						<li class="dropdown ">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown">PRODUTOS <i class="fa fa-angle-down"></i></a>
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown">EMPRESA <i class="fa fa-angle-down"></i></a>
 							<ul class="dropdown-menu" role="menu">
-								<li><a href="catalogo.php">Chapa Perfurada</a></li>
-								<li><a href="catalogo.php">Fixação</a></li>
-								<li><a href="catalogo.php">Gradil</a></li>
-								<li><a href="catalogo.php">Metal Distendido</a></li>
+								<li role="presentation"><a href="empresa.php?page=quem_somos">Quem Somos</a></li>
+								<li role="presentation"><a href="#">Os nosssos Clientes</a></li>
+								<li role="presentation"><a href="#">Objectivos</a></li>
+								<li role="presentation"><a href="#">Príncipios e Valores</a></li>
+								<li role="presentation"><a href="#">Um Compromisso Sólido</a></li>
+								<li role="presentation"><a href="empresa.php?page=bolsa_emprego">Bolsa de Emprego</a></li>
 							</ul>
 						</li>
 						<li class="dropdown ">
-							<a href="#" class="dropdown-toggle">SERVIÇOS </a>
-							
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown">PRODUTOS <i class="fa fa-angle-down"></i></a>
+							<ul class="dropdown-menu" role="menu">
+								<li role="presentation"><a href="catalogo.php?gm=cp">Chapa Perfurada</a></li>
+								<li role="presentation"><a href="catalogo.php">Fixação</a></li>
+								<li role="presentation"><a href="catalogo.php">Gradil</a></li>
+								<li role="presentation"><a href="catalogo.php">Metal Distendido</a></li>
+							</ul>
+						</li>
+						<li class="dropdown ">
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown">SERVIÇOS <i class="fa fa-angle-down"></i></a>
+							<ul class="dropdown-menu" role="menu">
+								<li role="presentation"><a href="service.php?page=importinox">Serviço Importinox</a></li>
+								<li role="presentation"><a href="service.php?page=edi">Factura Electrónica EDI</a></li>
+								<li role="presentation"><a href="service.php?page=slap_ship">Slap &amp; Ship</a></li>
+								<li role="presentation"><a href="service.php?page=repacking">Repacking</a></li>
+								<li role="presentation"><a href="service.php?page=blanket_ordering">Blanket ordering</a></li>
+								<li role="presentation"><a href="service.php?page=jit_kanban">JIT Kanban</a></li>
+								<li role="presentation"><a href="service.php?page=vmi">Vendor Managed Inventory</a></li>
+							</ul>
+						</li>
+						<li class="dropdown ">
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown">QUALIDADE <i class="fa fa-angle-down"></i></a>
+							<ul class="dropdown-menu" role="menu">
+								<li role="presentation"><a href="#">A Qualidade Importinox</a></li>
+								<li role="presentation"><a href="#">Certificação ISO 9001</a></li>
+								<li role="presentation"><a href="#">Controle de Qualidade</a></li>
+								<li role="presentation"><a href="#">Certificados de Qualidade</a></li>
+							</ul>
 						</li>
 						<li class="dropdown">
 							<a href="page-contacts.php" data-toggle="dropdown">INFORMAÇÃO <i class="fa fa-angle-down"></i></a>
@@ -112,12 +140,12 @@
 							</ul>
 						</li>
 						<li class="dropdown ">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown"><img src="assets/img/flags/Portugal2.png" height="25px" alt="Portugal">&nbsp;&nbsp;PT <i class="fa fa-angle-down"></i></a>
-							<ul class="dropdown-menu" role="menu">
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown"><img src="assets/img/flags/Portugal2.png" height="25px" alt="Portugal">&nbsp;&nbsp;PT <!--<i class="fa fa-angle-down"></i>--></a>
+							<!--<ul class="dropdown-menu" role="menu">
 								<li><a href="#"><img src="assets/img/flags/United-Kingdom.png" height="25px" alt="English">&nbsp;&nbsp;English </a></li>
 								<li><a href="#"><img src="assets/img/flags/spain.png" height="25px" alt="Spanish">&nbsp;&nbsp;Español </a></li>
 								<li><a href="#"><img src="assets/img/flags/Germany.png" height="25px" alt="German">&nbsp;&nbsp;Deutsch </a></li>
-							</ul>
+							</ul>-->
 						</li>
 						<!--<li class="dropdown ">
 							<a href="#" class="dropdown-toggle" data-toggle="dropdown">SHOP <i class="fa fa-angle-down"></i></a>

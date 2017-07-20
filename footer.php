@@ -180,6 +180,7 @@
 	<script src="assets/js/plugins/jquery-easypiechart/jquery.easypiechart.min.js"></script>
 	<script src="assets/js/plugins/autohidingnavbar/jquery.bootstrap-autohidingnavbar.min.js"></script>
 	<!--<script src="assets/js/plugins/jquery-lazyload/jquery.lazyload.js"></script>-->
+	<script src="assets/js/plugins/fitvids/jquery.fitvids.js"></script>
 	<script src="assets/js/plugins/lazysizes/lazysizes.min.js" async=""></script>
 	<script src="assets/js/repute-scripts.js"></script>
 	

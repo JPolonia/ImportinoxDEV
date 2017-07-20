@@ -16,7 +16,7 @@
             return 'A mostrar ' + pageFrom + ' até ' + pageTo + ' de ' + totalRows + ' linhas';
         },
         formatSearch: function () {
-            return 'Pesquisa';
+            return 'filtrar resultados';
         },
         formatNoMatches: function () {
             return 'Nenhum registo encontrado';

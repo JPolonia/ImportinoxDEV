@@ -343,13 +343,13 @@
             if(field=='stock'){
                 switch(option) {
                     case 'A':
-                       labelThis = '<img src="img/green.svg" align="middle" style="margin-top: -5px;margin-left:5px" width="22" height="22">';
+                       labelThis = '<img src="assets/img/green.svg" align="middle" style="margin-top: -5px;margin-left:5px" width="22" height="22">';
                        break;
                     case 'B':
-                        labelThis = '<img src="img/yellow.svg" align="middle" style="margin-top: -5px;margin-left:5px" width="22" height="22">';
+                        labelThis = '<img src="assets/img/yellow.svg" align="middle" style="margin-top: -5px;margin-left:5px" width="22" height="22">';
                         break;
                     case 'C':
-                        labelThis = '<img src="img/grey.svg" align="middle" style="margin-top: -5px;margin-left:5px" width="22" height="22">';
+                        labelThis = '<img src="assets/img/grey.svg" align="middle" style="margin-top: -5px;margin-left:5px" width="22" height="22">';
                         break;
                 }
             }

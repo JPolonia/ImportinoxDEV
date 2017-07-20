@@ -97,7 +97,7 @@
 								</div>
 							<div class="col-md-8 col-sm-8">
 								<img src="assets/img/news/PME-15.png" style="float:right !important; width:12%; margin: 0 0 0px 18px;" alt="Robot">
-								<h3 style="font-size: 22px; margin-top:0px;"><a href="blog-medium-thumbnail.html">PME Excelência 2015</a></h3>				
+								<h3 style="font-size: 22px; margin-top:0px;"><a href="blog-medium-thumbnail.php">PME Excelência 2015</a></h3>				
 								<p>A Importinox foi, mais uma vez, incluída pelo IAPMEI na restrita lista das empresas que cumpriram no ano fiscal de 2014 os requisitos para atribuição do estatuto PME excelência’15.</br>
 	A cerimónia pública de homenagem a estas empresas está marcada para o próximo dia 10 de Fevereiro de 2016 no Europarque, em Santa Maria da Feira, onde marcará presença o Ministro da Economia,  Manuel Caldeira Cabral.
 	</p>

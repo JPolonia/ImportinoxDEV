@@ -610,6 +610,10 @@ ul.sidebar-nav {
 /* breadcrumb */
 .breadcrumb {
 	background-color: transparent;
+
+	&.tab-content > .active {
+		display: inline-block;
+	}
 	
 	> li {
 		&.active {

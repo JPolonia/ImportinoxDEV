@@ -1,4 +1,7 @@
 /* your custom styles here */
+#gridTable.table > tbody > tr > td  {
+	    padding: 2px 8px;
+}
 .cat dl {margin-bottom:20px}
 .cat dl,.cat dt,.cat dd {padding:0;margin:0;}
 .cat {}
